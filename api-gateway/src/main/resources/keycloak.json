@@ -1,0 +1,10 @@
+{
+  "realm": "",
+  "auth-server-url": "", 
+  "ssl-required": "",
+  "resource": "",
+  "credentials": {
+    "secret": ""
+  },
+  "use-resource-role-mappings": true
+}
